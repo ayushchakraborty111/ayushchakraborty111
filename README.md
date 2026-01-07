@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Heavy+MERN+/+MEAN+Developer;3.3%2B+Years+of+Experience;Node.js+%7C+React+%7C+Angular+%7C+MongoDB"
+    src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Heavy+MERN+/+MEAN+Developer;3%2B+Years+of+Experience;Node.js+%7C+React+%7C+Angular+%7C+MongoDB"
   />
 </p>
 
