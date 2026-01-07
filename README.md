@@ -27,7 +27,7 @@
 <!-- ABOUT -->
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🚀 Full Stack Developer with <strong>3.3+ years</strong> of professional experience</li>
+  <li>🚀 Full Stack Developer with <strong>3+ years</strong> of professional experience</li>
   <li>⚙️ Backend-heavy developer focused on scalable APIs & system design</li>
   <li>🧠 Strong in Node.js, MongoDB, SQL & Microservices</li>
   <li>🐳 Hands-on with Docker, Redis, Background Jobs & Queues</li>
